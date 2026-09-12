@@ -46,3 +46,8 @@ Ready for some green energy?
 🟢 🐂 📈 ⚡ 🚀
 
 </p>
+
+<p align="center">
+  <a href="https://feenance.org"><img src="https://feenanceorg.github.io/feenance_bg.png" alt="FEENANCE — The Fun Side of Finance" width="100%"></a>
+</p>
+
