@@ -1,21 +1,21 @@
 <p align="center">
-  <a href="https://feenance.org"><img src="https://feenanceorg.github.io/feenance_header.png" alt="FEENANCE — The Fun Side of Finance" width="100%"></a>
+  <a href="https://feenance.org"><img src="https://feenanceorg.github.io/feenance_heading.jpg" alt="FEENANCE — The Fun Side of Finance" width="100%"></a>
 </p>
 
 <p align="center">
-  🟢 Green candles. Good vibes. Big energy. 🟢
+  🟢 $FEEFI by FEENANCE the fun side of "Finance" on Robinhood chain. 🟢
 </p>
 
 ---
 
-# 🟢 FEENANCE $FNC
+# 🟢 FEENANCE $FEEFI
 
 ### TOKEN INFO
 
 | | |
 |---|---|
 | **Name** | FEENANCE |
-| **Ticker** | `$FNC` |
+| **Ticker** | `$FEEFI` |
 | **Network** | Robinhood Chain |
 | **Category** | Fun / Community Token |
 | **CA** | 0x777777777777777777777777777777777777777777777777 |
@@ -26,10 +26,10 @@ Ready for some green energy?
 
 ---
 
-## 🟢 GET $FNC
+## 🟢 GET $FEEFI
 
-- 🦄 **Buy on Uniswap**
-- 🐸 **Buy on PonsFamily**
+- 🦄 [**Buy on Uniswap**](https://app.uniswap.org/swap?outputCurrency=0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&chain=robinhood)
+- 🐸 [**Buy on PonsFamily**](https://www.ponsfamily.com/launchpad/0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 
 🌐 Stay connected with the FEENANCE community:
 
