@@ -3,22 +3,22 @@
 </p>
 
 <p align="center">
-  🟢 $FEEFI by FEENANCE the fun side of "Finance" on Robinhood chain. 🟢
+  🟢 $FEE by FEENANCE the fun side of "Finance" on Robinhood chain. 🟢
 </p>
 
 ---
 
-# 🟢 FEENANCE $FEEFI
+# 🟢 FEENANCE $FEE
 
 ### TOKEN INFO
 
 | | |
 |---|---|
 | **Name** | FEENANCE |
-| **Ticker** | `$FEEFI` |
+| **Ticker** | `$FEE` |
 | **Network** | Robinhood Chain |
 | **Category** | Fun / Community Token |
-| **CA** | 0x777777777777777777777777777777777777777777777777 |
+| **CA** | 0x104bff8794f51e6FAA627CD1d3dB92F3843484Af |
 | **Total** | 1,000,000,000 |
 | **Launchpad** | Pons Family |
 
@@ -26,10 +26,10 @@ Ready for some green energy?
 
 ---
 
-## 🟢 GET $FEEFI
+## 🟢 GET $FEE
 
-- 🦄 [**Buy on Uniswap**](https://app.uniswap.org/swap?outputCurrency=0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&chain=robinhood)
-- 🐸 [**Buy on PonsFamily**](https://www.ponsfamily.com/launchpad/0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+- 🦄 [**Buy on Uniswap**](https://app.uniswap.org/swap?outputCurrency=0x104bff8794f51e6FAA627CD1d3dB92F3843484Af&chain=robinhood)
+- 🐸 [**Buy on PonsFamily**](https://www.ponsfamily.com/launchpad/0x104bff8794f51e6FAA627CD1d3dB92F3843484Af)
 
 🌐 Stay connected with the FEENANCE community:
 
